@@ -1,0 +1,7 @@
+feature 1
+<<<<<<< HEAD
+feature 3
+=======
+feature 2
+>>>>>>> feature2
+
